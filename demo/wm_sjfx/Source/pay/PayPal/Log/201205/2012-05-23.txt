@@ -1,0 +1,8 @@
+改变用户状态----单号：230954319344----2012-5-23 9:58:29
+响应1|update UserInfo set Status=0,user_expire_date=dateadd(m,1,getdate()) where user_id=38----2012-5-23 10:26:04
+改变用户状态----单号：230954319344----2012-5-23 10:26:07
+响应1|update UserInfo set Status=0,user_expire_date=dateadd(m,1,getdate()) where user_id=38----2012-5-23 10:32:03
+改变用户状态异常----未将对象引用设置到对象的实例。----单号：230954319344----2012-5-23 10:32:03
+响应1|update UserInfo set Status=0,user_expire_date=dateadd(m,1,getdate()) where user_id=39----2012-5-23 10:34:45
+改变用户状态异常----未将对象引用设置到对象的实例。----单号：231033442137----2012-5-23 10:35:48
+响应1|update UserInfo set Status=0,user_expire_date=dateadd(m,1,getdate()) where user_id=40----2012-5-23 10:37:17

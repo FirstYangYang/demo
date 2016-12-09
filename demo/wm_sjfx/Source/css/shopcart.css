@@ -1,0 +1,206 @@
+﻿.m_box1 {
+    margin: 0 auto;
+    width: 960px;
+}
+.m_box1 .table {
+    border-bottom: 1px solid #b2b2b2;
+    border-top: 3px solid #b2b2b2;
+    width: 100%;
+}
+.m_box1 .table td.bg1 {
+ 
+    background: #e2f2ff none repeat scroll 0 0;
+    border-top: 3px solid #a7cbff;
+    height: 30px;
+
+}
+.m_box1 .table td {
+    padding: 10px 0;
+    text-align: center;
+    border: 1px solid #cadeff;
+}
+.m_box1 .table tbody tr:hover {
+    background: rgb(238, 246, 255) none repeat scroll 0 0;
+}
+.blank {
+    height: 10px;
+}
+
+.m_box1 .table td .box .con {
+    color: #858484;
+    float: left;
+    font-size: 14px;
+    line-height: 25px;
+    padding-top: 20px;
+    text-align: left;
+    width: 329px;
+}
+.blank4 {
+    height: 30px;
+}
+.m_box1 .p1 {
+    height: 25px;
+    line-height: 25px;
+    padding: 0 0 0 15px;
+}
+.m_box1 .p2 span {
+    color: #5f5f5f;
+    
+    padding-right: 45px;
+}
+.m_box1 .p2 a.ico {
+    background: rgba(0, 0, 0, 0) url("../images/ksjg_pic22.jpg") no-repeat scroll left center;
+    color: #5f5f5f;
+    padding-left: 15px; float:left;
+}
+.m_box1 .p2 span i {
+    color: #e61f27;
+}
+.m_box1 .p3 a.btn2 {
+    background:url("../images/ksjg_pic11.jpg") no-repeat scroll 0 0;
+}
+.m_box1 .p3 a.btn1 {
+    background:url("../images/ksjg_pic23.jpg") no-repeat scroll 0 0;
+}
+.m_box1 .p2 {
+   background-color: #eaeaea;
+    background-image: linear-gradient(rgb(241, 241, 241), rgb(226, 226, 226));
+    border: 1px solid #c8c8c8;
+    color: #666;
+    font-size: 14px;
+    font-weight: bold;
+    height: 35px;
+    line-height: 33px;
+    margin-top: 10px;
+    padding: 0 55px;
+    text-align: right;
+}
+.m_box1 .p2 i {
+    color: #e61f27;
+}
+.m_box1 .p3 a {
+    display: inline-block;
+    height: 42px;
+    margin-left: 10px;
+    width: 139px;
+}
+
+.m_box1 .p1 span {
+    color: #5f5f5f;
+    float: right;
+    padding-right: 45px;
+}
+.m_box1 .p3 {
+    padding-top: 20px;
+    text-align: right;
+}
+.m_box1 .table td .box .img {
+    float: left;
+    width: 180px;
+}
+
+.m_box1 .table td a {
+    color: #444;
+    font-size: 16px;
+}
+.m_box1 .table td .box1 .minus {
+    background:  url("../images/ksjg_pic19.jpg") no-repeat scroll 0 0;
+    display: block;
+    float: left;
+    height: 15px;
+    margin-top: 7px;
+    width: 15px;
+}
+.m_box1 .table td .box1 .add {
+    background:  url("../images/ksjg_pic20.jpg") no-repeat scroll 0 0;
+    display: block;
+    float: left;
+    height: 15px;
+    margin-top: 7px;
+    width: 15px;
+}
+.m_box1 .table td .box1 .text {
+    background: url("../images/ksjg_pic21.jpg") no-repeat scroll 0 0;
+    float: left;
+    height: 29px;
+    line-height: 29px;
+    margin: 0 5px;
+    text-align: center;
+    width: 41px;
+}
+
+.m_box1 .p1 a.ico {
+    background: url("../images/ksjg_pic22.jpg") no-repeat scroll left center;
+    color: #5f5f5f;
+    padding-left: 15px;
+}
+
+.m_box1 .table td .box1 {
+    margin: 0 auto;
+    width: 86px;
+}
+
+.m_box1 .table td span {
+    color: #e61f27;
+    font-size: 16px;
+}
+.goods_checkout{ width:960px;
+    margin: 0 auto 15px;}
+.containerTitle {
+    background-color: #f0f0f0;
+    color: #333;
+    font-size: 1.1em;
+    font-weight: bold;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    width:960px;
+    margin:0 auto;
+}
+
+div.goods_checkout_content td {
+    line-height: 2.1;
+}
+.txt {
+    border: 1px solid #a5afc3;
+  
+}
+ .backCart {
+   background-color: #028aec;
+    border: medium none;
+    color: #ffffff;
+    font-size: 18px;
+    height: 43px;
+    width: 131px;
+    line-height:40px;
+    text-align:center;
+    margin-right:10px;
+    display:block;
+    float:right;
+    margin-right:10px;
+}
+div.goods_cart_button span.button_C .bgBtn, .goods_checkout .bgBtn {
+    background:  url("../images/submitOrder.jpg") no-repeat scroll 0 0;
+    border: medium none;
+    float: right;
+    height: 42px;
+    width: 139px;
+}
+
+.m_box .p2 {
+    color: #898989;
+    font-size: 18px;
+    padding-top: 15px;
+}
+.m_box {
+    text-align: center;
+}
+.red {
+    color: red;
+}
+
+.m_box .p3 {
+    color: #898989;
+    font-size: 14px;
+    padding-top: 15px;
+}
+.buttonss{background: url(../images/i/bg_regist.jpg) no-repeat 0 -186px;color: #333333;font-size: 14px;font-weight: bold;height:32px;width: 135px; cursor:pointer;  border:none}
